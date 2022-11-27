@@ -1,2 +1,2 @@
-# fvarrui-eclipse-updatesite
+# Eclipse Update Site
  Update Site for my custom Eclipse plugins
