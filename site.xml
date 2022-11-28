@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/io.github.fvarrui.eclipse.plugin.pastebin.feature_0.0.2.jar" id="io.github.fvarrui.eclipse.plugin.pastebin.feature" version="0.0.2"/>
+   <feature url="features/io.github.fvarrui.eclipse.plugin.pasteee.feature_0.0.1.jar" id="io.github.fvarrui.eclipse.plugin.pasteee.feature" version="0.0.1"/>
 </site>
